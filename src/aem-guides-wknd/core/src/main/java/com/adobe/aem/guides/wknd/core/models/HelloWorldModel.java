@@ -63,4 +63,9 @@ public class HelloWorldModel {
         return message;
     }
 
+
+    public String toStrig(){
+        return "This is a test String!";
+    }
+
 }
